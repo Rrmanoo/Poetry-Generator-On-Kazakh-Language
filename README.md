@@ -9,3 +9,11 @@ and rhythm. It has rhythm, rhymes and rhyming structure which
 specific for only Kazakh poets "Қара ұйқас". Generation has
 few grammatical errors, meaningful word phrases and abstract
 meaning.
+
+
+Step-by-Step getting familiar with the project:
+
+1. Read Manuscript and look at Presentation
+2. Download the dataset and IPYNB files
+3. Run programms
+4. For the additional informantion provided Research list 
